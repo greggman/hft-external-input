@@ -1,0 +1,26 @@
+{
+  "name": "hft-external-input",
+  "version": "0.0.1",
+  "description": "HappyFunTimes example of inserting input externally (not from a browser)",
+  "main": "bin/hft.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/greggman/hft-external-input.git"
+  },
+  "keywords": [
+    "HappyFunTimes"
+  ],
+  "author": "Gregg Tavares",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/greggman/hft-cli/issues"
+  },
+  "homepage": "https://github.com/greggman/hft-cli",
+  "dependencies": {
+    "minimist": "^0.1.0",
+    "requirejs": "^2.1.15"
+  }
+}
